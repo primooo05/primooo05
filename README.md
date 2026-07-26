@@ -11,7 +11,7 @@
       <img src="./github-metrics.svg" width="100%" alt="Isometric Contribution Calendar" />
     </td>
     <td width="35%" valign="top">
-      <img src="./Ghibli-Animation.gif" width="100%" alt="Ghibli Animation" />
+      <img src="./gambol.gif" width="100%" alt="Ghibli Animation" />
     </td>
   </tr>
 </table>
