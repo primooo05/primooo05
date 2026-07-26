@@ -1,6 +1,6 @@
 <img src="./Header.gif" width="100%" alt="Header Animation" />
-## Overview
 
+<h1>Overview</h1>
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
