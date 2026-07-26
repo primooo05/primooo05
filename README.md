@@ -1,3 +1,4 @@
+<img src="./header.gif" width="100%" alt="Header Animation" />
 ## Overview
 
 <table width="100%">
