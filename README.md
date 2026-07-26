@@ -11,9 +11,7 @@
       <img src="./github-metrics.svg" width="100%" alt="Isometric Contribution Calendar" />
     </td>
     <td width="35%" valign="top">
-      <img src="./gambol.gif" width="100%" alt="Ghibli Animation" />
-      <br><br>
-  <!-- Tech Stack Badges to fill vertical whitespace -->
+      <img src="./gambol.gif" width="100%" alt="Gumball Animation" />
         <h4>🚀 Tech Stack & Tools</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
