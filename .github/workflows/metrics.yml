@@ -12,7 +12,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
+          config_display: full-width
           base: header, activity, community
-          config_order: plugin_isocalendar, base.header, base.activity
+          config_order: base.header, base.activity, base.community, plugin_isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
