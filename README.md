@@ -12,6 +12,7 @@
     </td>
     <td width="35%" valign="top">
       <img src="./gambol.gif" width="100%" alt="Ghibli Animation" />
+      <p>cutieeeeeeee</p>
     </td>
   </tr>
 </table>
