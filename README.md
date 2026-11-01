@@ -1,4 +1,4 @@
-<img src="./Header.gif" width="100%" alt="Header Animation" />
+<img src="./profile_banner.gif" width="100%" alt="Header Animation" />
 
 <h1>Overview</h1>
 <table width="100%">
